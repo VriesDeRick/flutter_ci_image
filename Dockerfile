@@ -1,4 +1,4 @@
-FROM richyrick/android-ci-26
+FROM richyrick/android_ci_image
 
 ENV LANG=en_US.UTF-8 \
     PATH="${PATH}:/flutter/bin/"
